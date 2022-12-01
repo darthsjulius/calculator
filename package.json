@@ -6,8 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthsjulius/calculator.git"
+  },
   "keywords": [],
   "author": "Yulia Shaginian",
   "license": "MIT",
-  "dependencies": {}
+  "bugs": {
+    "url": "https://github.com/darthsjulius/calculator/issues"
+  },
+  "homepage": "https://github.com/darthsjulius/calculator#readme"
 }
